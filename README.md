@@ -6,8 +6,8 @@ This project gives an example implementation working with swagger, using the Swa
 
 - Swashbuckle.AspNetCore (5.6.3)
 - Swashbuckle.AspNetCore.Annotations (5.6.3) 
-- Microsoft.AspNetCore.Mvc.Versioning (om versioning te enablen)
-- Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer (voor versie discovery zoals lijst van api versioned controllers etc)
+- Microsoft.AspNetCore.Mvc.Versioning (to enable versioning)
+- Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer (version discovery on the api's that have versioning enabled using the right attributes)
 - Microsoft.Extensions.PlatformAbstractions
 
 # How to run the api:
